@@ -9,7 +9,7 @@ from django.contrib import messages
 def index(request):
     # # return HttpResponse("raja is the king"
       
-    return render(request, 'satya.html')
+    return render(request, 'index.html')
 
 
 def videos(request):
