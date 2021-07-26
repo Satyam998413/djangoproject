@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-vl6ie2uc0a6lb6s@i$=kwrls4(z)t7ov2b(&d$95(_lgq*9e!3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','cremen-engineer.herokuapp.com',www.cremenengineer.com','CremenEngineers.com','CremenEngineers.in','www.CremenEngineers.in']
+ALLOWED_HOSTS = ['127.0.0.1','cremen-engineer.herokuapp.com','www.cremenengineer.com','CremenEngineers.com','CremenEngineers.in','www.CremenEngineers.in']
 
 
 # Application definition
